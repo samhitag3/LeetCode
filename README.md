@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/samhitag3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samhitag3/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/samhitag3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samhitag3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/samhitag3/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/samhitag3/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/samhitag3/LeetCode/tree/master/0054-spiral-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/samhitag3/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
