@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/samhitag3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samhitag3/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samhitag3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/samhitag3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samhitag3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samhitag3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/samhitag3/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/samhitag3/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/samhitag3/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/samhitag3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
