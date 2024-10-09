@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/samhitag3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samhitag3/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Math
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/samhitag3/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/samhitag3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samhitag3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
 | [0482-license-key-formatting](https://github.com/samhitag3/LeetCode/tree/master/0482-license-key-formatting) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/samhitag3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/samhitag3/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 ## Counting
