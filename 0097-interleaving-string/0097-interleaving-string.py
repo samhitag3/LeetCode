@@ -6,8 +6,8 @@ class Solution(object):
         :type s3: str
         :rtype: bool
         """
-        if len(s3) != len(s1) + len(s2):  # Check if lengths match
-            return False
+        # if len(s3) != len(s1) + len(s2):  # Check if lengths match
+        #     return False
 
         matrix = []
         for i in range(len(s1) + 1):
