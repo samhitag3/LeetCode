@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/samhitag3/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Divide and Conquer
 |  |
 | ------- |
