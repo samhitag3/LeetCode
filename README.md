@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/samhitag3/LeetCode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/samhitag3/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/samhitag3/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0300-longest-increasing-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/samhitag3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/samhitag3/LeetCode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/samhitag3/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/samhitag3/LeetCode/tree/master/0271-encode-and-decode-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
