@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/samhitag3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1483-rank-teams-by-votes](https://github.com/samhitag3/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1894-merge-strings-alternately](https://github.com/samhitag3/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Tree
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/samhitag3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samhitag3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/samhitag3/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
