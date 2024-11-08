@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/samhitag3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/samhitag3/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/samhitag3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/samhitag3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/samhitag3/LeetCode/tree/master/0271-encode-and-decode-strings) |
+| [0290-word-pattern](https://github.com/samhitag3/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
 | [0482-license-key-formatting](https://github.com/samhitag3/LeetCode/tree/master/0482-license-key-formatting) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/samhitag3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
