@@ -1,3 +1,4 @@
+from collections import Counter
 class Solution(object):
     def groupAnagrams(self, strs):
         """
@@ -7,16 +8,12 @@ class Solution(object):
         wordDicts = []
         returnVal = []
         for s in strs:
-            currentDict = {}
-            for c in s:
-                if c in currentDict:
-                    currentDict[c] += 1
-                else:
-                    currentDict[c] = 1
-            if currentDict in wordDicts:
-                returnVal[wordDicts.index(currentDict)].append(s)
+            d = Counter(s)
+            if d in wordDicts:
+                i = wordDicts.index(d)
+                returnVal[i].append(s)
             else:
-                wordDicts.append(currentDict)
+                wordDicts.append(d)
                 returnVal.append([s])
         return returnVal
         
