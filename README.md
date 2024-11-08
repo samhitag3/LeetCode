@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/samhitag3/LeetCode/tree/master/0013-roman-to-integer) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/samhitag3/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/samhitag3/LeetCode/tree/master/0482-license-key-formatting) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/samhitag3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/samhitag3/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1483-rank-teams-by-votes](https://github.com/samhitag3/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1894-merge-strings-alternately](https://github.com/samhitag3/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Tree
