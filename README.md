@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/samhitag3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/samhitag3/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/samhitag3/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/samhitag3/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/samhitag3/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/samhitag3/LeetCode/tree/master/0290-word-pattern) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/samhitag3/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/samhitag3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samhitag3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/samhitag3/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/samhitag3/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/samhitag3/LeetCode/tree/master/0290-word-pattern) |
