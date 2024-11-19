@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1483-rank-teams-by-votes](https://github.com/samhitag3/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samhitag3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1483-rank-teams-by-votes](https://github.com/samhitag3/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samhitag3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/samhitag3/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Divide and Conquer
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samhitag3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
