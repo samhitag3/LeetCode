@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/samhitag3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/samhitag3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/samhitag3/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/samhitag3/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/samhitag3/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/samhitag3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0482-license-key-formatting](https://github.com/samhitag3/LeetCode/tree/master/0482-license-key-formatting) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/samhitag3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/samhitag3/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/samhitag3/LeetCode/tree/master/0412-fizz-buzz) |
 ## Greedy
 |  |
 | ------- |
