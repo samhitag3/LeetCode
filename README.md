@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/samhitag3/LeetCode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/samhitag3/LeetCode/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/samhitag3/LeetCode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/samhitag3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/samhitag3/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/samhitag3/LeetCode/tree/master/0412-fizz-buzz) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/samhitag3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/samhitag3/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/samhitag3/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/samhitag3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/samhitag3/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
