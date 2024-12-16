@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/samhitag3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/samhitag3/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/samhitag3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/samhitag3/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samhitag3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/samhitag3/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/samhitag3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/samhitag3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/samhitag3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/samhitag3/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/samhitag3/LeetCode/tree/master/0412-fizz-buzz) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/samhitag3/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
