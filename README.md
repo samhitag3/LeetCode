@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/samhitag3/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/samhitag3/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/samhitag3/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/samhitag3/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/samhitag3/LeetCode/tree/master/1036-rotting-oranges) |
 | [1464-reduce-array-size-to-the-half](https://github.com/samhitag3/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1483-rank-teams-by-votes](https://github.com/samhitag3/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/samhitag3/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/samhitag3/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/samhitag3/LeetCode/tree/master/0054-spiral-matrix) |
+| [1036-rotting-oranges](https://github.com/samhitag3/LeetCode/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
