@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/samhitag3/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/samhitag3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0443-string-compression](https://github.com/samhitag3/LeetCode/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/samhitag3/LeetCode/tree/master/0482-license-key-formatting) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/samhitag3/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/samhitag3/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/samhitag3/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/samhitag3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/samhitag3/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/samhitag3/LeetCode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/samhitag3/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
